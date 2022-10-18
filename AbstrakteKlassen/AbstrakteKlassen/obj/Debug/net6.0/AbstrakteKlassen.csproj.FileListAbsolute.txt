@@ -1,0 +1,15 @@
+F:\[programming]\C#Masterkurs\Übung12-AbstrakteKlassen\AbstrakteKlassen\AbstrakteKlassen\bin\Debug\net6.0\AbstrakteKlassen.exe
+F:\[programming]\C#Masterkurs\Übung12-AbstrakteKlassen\AbstrakteKlassen\AbstrakteKlassen\bin\Debug\net6.0\AbstrakteKlassen.deps.json
+F:\[programming]\C#Masterkurs\Übung12-AbstrakteKlassen\AbstrakteKlassen\AbstrakteKlassen\bin\Debug\net6.0\AbstrakteKlassen.runtimeconfig.json
+F:\[programming]\C#Masterkurs\Übung12-AbstrakteKlassen\AbstrakteKlassen\AbstrakteKlassen\bin\Debug\net6.0\AbstrakteKlassen.dll
+F:\[programming]\C#Masterkurs\Übung12-AbstrakteKlassen\AbstrakteKlassen\AbstrakteKlassen\bin\Debug\net6.0\AbstrakteKlassen.pdb
+F:\[programming]\C#Masterkurs\Übung12-AbstrakteKlassen\AbstrakteKlassen\AbstrakteKlassen\obj\Debug\net6.0\AbstrakteKlassen.csproj.AssemblyReference.cache
+F:\[programming]\C#Masterkurs\Übung12-AbstrakteKlassen\AbstrakteKlassen\AbstrakteKlassen\obj\Debug\net6.0\AbstrakteKlassen.GeneratedMSBuildEditorConfig.editorconfig
+F:\[programming]\C#Masterkurs\Übung12-AbstrakteKlassen\AbstrakteKlassen\AbstrakteKlassen\obj\Debug\net6.0\AbstrakteKlassen.AssemblyInfoInputs.cache
+F:\[programming]\C#Masterkurs\Übung12-AbstrakteKlassen\AbstrakteKlassen\AbstrakteKlassen\obj\Debug\net6.0\AbstrakteKlassen.AssemblyInfo.cs
+F:\[programming]\C#Masterkurs\Übung12-AbstrakteKlassen\AbstrakteKlassen\AbstrakteKlassen\obj\Debug\net6.0\AbstrakteKlassen.csproj.CoreCompileInputs.cache
+F:\[programming]\C#Masterkurs\Übung12-AbstrakteKlassen\AbstrakteKlassen\AbstrakteKlassen\obj\Debug\net6.0\AbstrakteKlassen.dll
+F:\[programming]\C#Masterkurs\Übung12-AbstrakteKlassen\AbstrakteKlassen\AbstrakteKlassen\obj\Debug\net6.0\refint\AbstrakteKlassen.dll
+F:\[programming]\C#Masterkurs\Übung12-AbstrakteKlassen\AbstrakteKlassen\AbstrakteKlassen\obj\Debug\net6.0\AbstrakteKlassen.pdb
+F:\[programming]\C#Masterkurs\Übung12-AbstrakteKlassen\AbstrakteKlassen\AbstrakteKlassen\obj\Debug\net6.0\AbstrakteKlassen.genruntimeconfig.cache
+F:\[programming]\C#Masterkurs\Übung12-AbstrakteKlassen\AbstrakteKlassen\AbstrakteKlassen\obj\Debug\net6.0\ref\AbstrakteKlassen.dll
